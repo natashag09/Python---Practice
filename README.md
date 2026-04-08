@@ -10,4 +10,15 @@ Topics Covered:
 
 Practiced basic python programs including variable declaration, taking user input , checking the datatype , and printing output.
 
+## Day 2 
+Topics Covered:
+- Arithmetic Operator 
+- Compound Assignment Operator 
+- Comparison operator 
+- Logical Operator 
+- Identity operator 
+- Membership Operator
+
+Practiced different types of operators in python and performed basic operations.
+
 I will update this repository daily with new topics.
