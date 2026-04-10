@@ -21,4 +21,12 @@ Topics Covered:
 
 Practiced different types of operators in python and performed basic operations.
 
+## Day 3 
+Topics Covered: 
+- If Else Statements 
+- Multiple conditions 
+- Nested Queries 
+
+Practiced real-world problems using conditional statements including grading system, salary tax calculation, divisibility checks, weather conditions, and menu-based logic.
+
 I will update this repository daily with new topics.
