@@ -29,4 +29,13 @@ Topics Covered:
 
 Practiced real-world problems using conditional statements including grading system, salary tax calculation, divisibility checks, weather conditions, and menu-based logic.
 
-I will update this repository daily with new topics.
+## Day 4 
+Topics Covered: 
+- for loop
+- iteration over strings and lists
+- counting and aggregation
+- conditional logic inside loops
+
+Practiced iterating over strings and lists using for loops. Implemented problems involving counting characters, summing elements, calculating averages, and applying conditions to classify data such as even/odd numbers and vowels/consonants.
+
+I will update this repository daily with new topics. 
