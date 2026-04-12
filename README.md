@@ -38,4 +38,14 @@ Topics Covered:
 
 Practiced iterating over strings and lists using for loops. Implemented problems involving counting characters, summing elements, calculating averages, and applying conditions to classify data such as even/odd numbers and vowels/consonants.
 
+## Day 5 
+Topics Covered:
+- for loop (iteration with range)
+- summation and averages
+- conditional logic inside loops
+- factorial and prime number logic
+- Fibonacci series
+
+Practiced using for loops to solve problems involving counting, summation, averages, factorial calculation, prime number checking, and generating Fibonacci series. Focused on building logic using iteration.
+
 I will update this repository daily with new topics. 
