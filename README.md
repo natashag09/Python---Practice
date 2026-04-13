@@ -48,4 +48,12 @@ Topics Covered:
 
 Practiced using for loops to solve problems involving counting, summation, averages, factorial calculation, prime number checking, and generating Fibonacci series. Focused on building logic using iteration.
 
+## Day 6
+Topics Covered:
+- For Loop (continued)
+- Reverse Iteration
+- String Manipulation
+
+Extended practice on for loops including reverse iteration, counting digits, reversing strings, and palindrome checking.
+
 I will update this repository daily with new topics. 
