@@ -56,4 +56,12 @@ Topics Covered:
 
 Extended practice on for loops including reverse iteration, counting digits, reversing strings, and palindrome checking.
 
+## Day 7 
+Topics Covered:
+- while loop
+- break statement
+- continue statement
+
+Practiced using while loops for iteration along with break and continue statements to control loop execution.
+
 I will update this repository daily with new topics. 
