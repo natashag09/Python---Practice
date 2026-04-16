@@ -64,4 +64,12 @@ Topics Covered:
 
 Practiced using while loops for iteration along with break and continue statements to control loop execution.
 
+## Day 8
+Topics Covered:
+- while loop
+- iteration using counters
+- conditional logic inside loops
+
+Practiced solving problems using while loops including sum, average, factorial, prime number check, and handling multiple inputs. Focused on building logic using loop control.
+
 I will update this repository daily with new topics. 
