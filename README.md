@@ -72,4 +72,12 @@ Topics Covered:
 
 Practiced solving problems using while loops including sum, average, factorial, prime number check, and handling multiple inputs. Focused on building logic using loop control.
 
+## Day 9 
+Topics Covered:
+- while loop
+- number-based problem solving
+- digit manipulation
+
+Practiced solving number-based problems using while loops including counting digits, reversing numbers, palindrome check, Armstrong number, and Fibonacci series. Focused on building logic using digit extraction and iteration.
+
 I will update this repository daily with new topics. 
