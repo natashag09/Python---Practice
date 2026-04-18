@@ -80,4 +80,11 @@ Topics Covered:
 
 Practiced solving number-based problems using while loops including counting digits, reversing numbers, palindrome check, Armstrong number, and Fibonacci series. Focused on building logic using digit extraction and iteration.
 
+## Day 10 
+Topics Covered:
+- String functions
+- Basic string operations
+
+Performed light practice on string manipulation including uppercase conversion, checking starting character, and replacing spaces.
+
 I will update this repository daily with new topics. 
