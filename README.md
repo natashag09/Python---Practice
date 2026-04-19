@@ -87,4 +87,13 @@ Topics Covered:
 
 Performed light practice on string manipulation including uppercase conversion, checking starting character, and replacing spaces.
 
+## Day 11 
+Topics Covered:
+- Control Statements
+- break statement
+- continue statement
+- loop control
+
+Practiced control statements in Python including break and continue using both for and while loops. Focused on controlling loop execution, stopping conditions, and skipping iterations.
+
 I will update this repository daily with new topics. 
