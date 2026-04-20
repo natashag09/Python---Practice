@@ -96,4 +96,13 @@ Topics Covered:
 
 Practiced control statements in Python including break and continue using both for and while loops. Focused on controlling loop execution, stopping conditions, and skipping iterations.
 
+## Day 12
+Topics Covered:
+- Control Statements
+- continue and pass
+- Nested loops
+- Iteration over strings and lists
+
+Practiced Python control statements and nested loops. Solved problems involving skipping conditions, pattern printing, multiplication tables, and iterating through lists and strings.
+
 I will update this repository daily with new topics. 
