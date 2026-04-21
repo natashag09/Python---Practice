@@ -105,4 +105,13 @@ Topics Covered:
 
 Practiced Python control statements and nested loops. Solved problems involving skipping conditions, pattern printing, multiplication tables, and iterating through lists and strings.
 
+## Day 13
+Topics Covered:
+- String functions
+- len() function
+- Indexing
+- Slicing
+
+Practiced string operations including finding length, accessing characters using indexing, and extracting parts of strings using slicing. Also implemented reverse string and step slicing.
+
 I will update this repository daily with new topics. 
