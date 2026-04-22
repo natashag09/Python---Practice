@@ -114,4 +114,12 @@ Topics Covered:
 
 Practiced string operations including finding length, accessing characters using indexing, and extracting parts of strings using slicing. Also implemented reverse string and step slicing.
 
+## Day 14
+Topics Covered:
+- Lists
+- List operations
+- Indexing in lists
+
+Practiced basic list operations including accessing elements, finding length, adding and removing elements, and checking membership in a list.
+
 I will update this repository daily with new topics. 
