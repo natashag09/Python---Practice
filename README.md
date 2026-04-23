@@ -122,4 +122,12 @@ Topics Covered:
 
 Practiced basic list operations including accessing elements, finding length, adding and removing elements, and checking membership in a list.
 
+## Day 15
+Topics Covered:
+- List problem solving
+- Iteration on lists
+- Basic list operations
+
+Solved problems using lists including finding sum, maximum element, counting even and odd numbers, reversing lists, and checking element presence.
+
 I will update this repository daily with new topics. 
