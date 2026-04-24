@@ -130,4 +130,12 @@ Topics Covered:
 
 Solved problems using lists including finding sum, maximum element, counting even and odd numbers, reversing lists, and checking element presence.
 
+## Day 16
+Topics Covered:
+- Functions
+- Function definition
+- Parameters
+
+Introduced functions in Python. Practiced creating functions with parameters and performing basic operations like addition, checking even/odd, and finding maximum.
+
 I will update this repository daily with new topics. 
