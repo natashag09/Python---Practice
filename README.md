@@ -138,4 +138,11 @@ Topics Covered:
 
 Introduced functions in Python. Practiced creating functions with parameters and performing basic operations like addition, checking even/odd, and finding maximum.
 
+## Day 17
+Topics Covered:
+- Functions
+- return statement
+
+Performed light practice on functions using return statement. Implemented basic functions for square, string length, and maximum value.
+
 I will update this repository daily with new topics. 
