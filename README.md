@@ -145,4 +145,11 @@ Topics Covered:
 
 Performed light practice on functions using return statement. Implemented basic functions for square, string length, and maximum value.
 
+## Day 18
+Topics Covered:
+- Functions
+- Problem solving using numbers and strings
+
+Solved different types of problems using functions including digit operations, and string case checking.
+
 I will update this repository daily with new topics. 
