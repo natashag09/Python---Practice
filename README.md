@@ -152,4 +152,11 @@ Topics Covered:
 
 Solved different types of problems using functions including digit operations, and string case checking.
 
+## Day 19
+Topics Covered:
+- Lists
+- Functions
+
+Practiced basic list operations using functions including sum, maximum, and reverse.
+
 I will update this repository daily with new topics. 
