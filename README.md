@@ -159,4 +159,11 @@ Topics Covered:
 
 Practiced basic list operations using functions including sum, maximum, and reverse.
 
+## Day 20
+Topics Covered:
+- Strings
+- Functions
+
+Practiced different string operations using functions including counting spaces, removing spaces, and counting character frequency.
+
 I will update this repository daily with new topics. 
