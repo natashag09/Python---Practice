@@ -166,4 +166,11 @@ Topics Covered:
 
 Practiced different string operations using functions including counting spaces, removing spaces, and counting character frequency.
 
+## Day 21
+Topics Covered:
+- Strings
+- Lists
+
+Practiced combining strings and lists including converting string to list, counting words, and finding longest word.
+
 I will update this repository daily with new topics. 
