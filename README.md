@@ -173,4 +173,10 @@ Topics Covered:
 
 Practiced combining strings and lists including converting string to list, counting words, and finding longest word.
 
+## Day 22
+Topics Covered:
+- Lists
+
+Practiced intermediate list operations including removing duplicates, counting frequency, and merging lists.
+
 I will update this repository daily with new topics. 
