@@ -179,4 +179,11 @@ Topics Covered:
 
 Practiced intermediate list operations including removing duplicates, counting frequency, and merging lists.
 
+## Day 23
+Topics Covered:
+- Lists
+- Intermediate Questions
+
+Practiced intermediate list operations including removing duplicates, counting frequency, and finding common elements between lists.
+
 I will update this repository daily with new topics. 
